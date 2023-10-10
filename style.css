@@ -1,6 +1,15 @@
-#grand.titr{
-    color: seagreen;
+.list li{
+   
+    list-style :none
+    
+
+    
+
 }
-.petit-titre{
-    color: yellow;
+.list a {
+    text-decoration: none;
+
+}
+.list li {
+
 }
